@@ -1323,11 +1323,11 @@ function RevenueSlide() {
                   }}
                   className="relative"
                 >
-                  <div className="text-4xl font-bold text-white">$250K</div>
+                  <div className="text-4xl font-bold text-white">$100K</div>
                   <div className="absolute inset-0 bg-purple-400/20 blur-xl rounded-full" />
                 </motion.div>
                 <p className="text-sm text-slate-400">
-                  2.5K NFTs at $100 avg., 10% fee
+                  1K NFTs at $100 avg., 10% fee
                 </p>
               </motion.div>
               <motion.div
@@ -3148,7 +3148,7 @@ function AskSlide() {
                   <div className="flex items-center justify-between">
                     <span className="text-slate-300">NFTs Minted</span>
                     <Badge className="bg-pink-500/20 text-pink-300 border-pink-500/30">
-                      2.5K
+                      1K
                     </Badge>
                   </div>
                 </div>
