@@ -3148,7 +3148,7 @@ function AskSlide() {
                   <div className="flex items-center justify-between">
                     <span className="text-slate-300">NFTs Minted</span>
                     <Badge className="bg-pink-500/20 text-pink-300 border-pink-500/30">
-                      2.5K
+                      1K
                     </Badge>
                   </div>
                 </div>
